@@ -3,7 +3,7 @@
 Hi, I'm Patt! Welcome to my profile. I'm passionate about technology and research, and I'm excited to share my projects and work with you. 😊
 
 ## My CV
-- [download my CV](link)  
+- [download my CV](https://drive.google.com/file/d/1ANh-0jCNpjveLku0GgPxdz2KR5TSs_7d/view?usp=sharing)  
 
 ## My Research Topics
 
