@@ -44,6 +44,7 @@ Hi, I'm Patt! Welcome to my profile. I'm passionate about technology and researc
 - 📄 [Project Slide](https://drive.google.com/file/d/1jbUs15r6og4cy4d703qFm8X-RBe2ofYw/view?usp=sharing)  
 
 ### 5. Innogrow
+- 📝 [LinkedIn Post](https://www.linkedin.com/posts/pattphurtivilai_exciting-recap-of-our-journey-over-activity-7291132458236854272-UyxH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcbiBgBTUBubhzsWW_Hf9AZFMD8cu7ScW8) 
 - 📺 [Project Video](https://youtu.be/AfH0KkqgNtw)  
 - 📄 [Project Slide](https://drive.google.com/file/d/1qSumHY_Idip0CFyC7QG611xQkFCrSxhv/view?usp=sharing)  
 
