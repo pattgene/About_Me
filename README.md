@@ -7,8 +7,8 @@ Hi, I'm Patt! Welcome to my profile. I'm passionate about technology and researc
 
 ## My Research Topics
 
-### 1. SGDepthRefine
-*Semantic-Guided Depth Refinement for High-Fidelity 3D-GS Reconstruction from Sparse LiDAR*  
+### 1. DensifyBeforehand
+*: LiDAR-assisted Content-aware Densification for Efficient and Quality 3D Gaussian Splatting*  
 **Status:** Ongoing  
 
 ### 2. Multimodal AI Assistant
