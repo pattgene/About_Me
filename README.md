@@ -10,7 +10,7 @@ Hi, I'm Patt! Welcome to my profile. I'm passionate about technology and researc
 ### 1. DensifyBeforehand
 *: LiDAR-assisted Content-aware Densification for Efficient and Quality 3D Gaussian Splatting*  
 **Status:** In process of Submission
-- 📦 [Project Page]([https://github.com/HKUGenAI/LMM_RAG_Workshop_GPU](https://yyanghly.github.io/DensifyBeforehand/))  
+- 📦 [Project Page](https://yyanghly.github.io/DensifyBeforehand/)  
 
 
 ### 2. Multimodal AI Assistant
