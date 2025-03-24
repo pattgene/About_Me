@@ -2,14 +2,16 @@
 
 Hi, I'm Patt! Welcome to my profile. I'm passionate about technology and research, and I'm excited to share my projects and work with you. 😊
 
-## 📄 [Download my CV](https://drive.google.com/file/d/16UknSvfszyS1rTJmsn1wZfnN_ad_08xR/view?usp=sharing)
+## 📄 [Download my CV](https://drive.google.com/file/d/1_dd8_sd2ooOaqJ-YYjf7xD-dAHqIwTrr/view?usp=sharing)
 ---
 
 ## My Research Topics
 
 ### 1. DensifyBeforehand
 *: LiDAR-assisted Content-aware Densification for Efficient and Quality 3D Gaussian Splatting*  
-**Status:** Ongoing  
+**Status:** In process of Submission
+- 📦 [Project Page]([https://github.com/HKUGenAI/LMM_RAG_Workshop_GPU](https://yyanghly.github.io/DensifyBeforehand/))  
+
 
 ### 2. Multimodal AI Assistant
 *RAG system for both image and text*  
